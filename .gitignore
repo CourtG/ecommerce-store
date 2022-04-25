@@ -1,0 +1,9 @@
+#list all of the giles and folders which you do not want to push up to Github. MUST BE DONE FIRST
+
+.vscode
+
+.DS_Store
+
+designs
+
+
